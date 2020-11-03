@@ -1,2 +1,2 @@
 # 1stTry-
-First repository 
+First repository example 
